@@ -1,2 +1,2 @@
 
-<div style="background-image:url(https://raw.githubusercontent.com/Ntsikelel/Ntsikelel/master/brand.gif);"></div>
+<img src = "https://raw.githubusercontent.com/Ntsikelel/Ntsikelel/master/brand.gif" alt = "Ntsikelelo Metseeme">
